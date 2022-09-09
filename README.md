@@ -25,12 +25,16 @@
 </p>
 
 ### Robotics-Specific Tools:
-* [ROS](https://www.ros.org)
-* [NVIDIA Isaac Gym](https://developer.nvidia.com/isaac-gym)
-* [PyBullet](https://pybullet.org)
-* [RaiSim](https://raisim.com)
-* [Pinocchio](https://github.com/stack-of-tasks/pinocchio)
-* [ocs2](https://github.com/leggedrobotics/ocs2)
+<p align="center">
+<a href="https://www.ros.org"><img alt="ROS" src="https://img.shields.io/badge/ROS-ROS-brightgreen"></a>
+<a href="https://developer.nvidia.com/isaac-gym"><img alt="NVidia Isaac Gym" src="https://img.shields.io/badge/GPU%20Simulation-Nvidia%20Isaac%20Gym-brightgreen"></a>
+<a href="https://pybullet.org"><img alt="PyBullet" src="https://img.shields.io/badge/Simulation-PyBullet-brightgreen"></a>
+<a href="https://raisim.com"><img alt="RaiSim" src="https://img.shields.io/badge/Simulation-RaiSim-brightgreen"></a>
+<a href="https://github.com/stack-of-tasks/pinocchio"><img alt="Pinocchio" src="https://img.shields.io/badge/Rigid%20Body%20Dynamics-Pinocchio-brightgreen"></a>
+<a href="https://github.com/stack-of-tasks/tsid"><img alt="tsid" src="https://img.shields.io/badge/Optimal%20Control-TSID-brightgreen"></a>
+<a href="https://github.com/leggedrobotics/ocs2"><img alt="ocs2" src="https://img.shields.io/badge/Optimal%20Control-ocs2-brightgreen"></a>
+</p>
+
 
 
 👉 Detailed bio.
