@@ -25,7 +25,7 @@
 </p>
 
 ### Robotics-Specific Tools:
-<p align="center">
+<p align="left">
 <a href="https://www.ros.org"><img alt="ROS" src="https://img.shields.io/badge/ROS-ROS-brightgreen"></a>
 <a href="https://developer.nvidia.com/isaac-gym"><img alt="NVidia Isaac Gym" src="https://img.shields.io/badge/GPU%20Simulation-Nvidia%20Isaac%20Gym-brightgreen"></a>
 <a href="https://pybullet.org"><img alt="PyBullet" src="https://img.shields.io/badge/Simulation-PyBullet-brightgreen"></a>
