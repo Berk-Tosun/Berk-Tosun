@@ -7,7 +7,7 @@
 * Control Systems
 * Mechanics
 * Scientific Computing
-* Data Science
+* Data Science - Machine Learning
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
