@@ -3,11 +3,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/berk-tosun)
 
 ### Areas of Interest:
+* Scientific Computing
 * Robotics
+* Data Science - Machine Learning
 * Control Systems
 * Mechanics
-* Scientific Computing
-* Data Science - Machine Learning
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
