@@ -1,5 +1,7 @@
 # Berk Tosun
 
+Hello! This is my personal account which I use out of my proffesional work. Here you can find stuff about my graduate research and hobbies, luckily they align at times :relieved:. 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/berk-tosun)
 
 ### Areas of Interest:
