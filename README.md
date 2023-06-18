@@ -35,6 +35,4 @@ Hello! This is my personal account which I use out of my professional work. Here
 <a href="https://github.com/leggedrobotics/ocs2"><img alt="ocs2" src="https://img.shields.io/badge/Optimal%20Control-ocs2-yellow"></a>
 </p>
 
-
-
-👉 Detailed bio.
+<!-- 👉 Detailed bio. -->
