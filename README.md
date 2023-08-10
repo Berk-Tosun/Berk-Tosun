@@ -6,10 +6,9 @@ Hello! This is my personal account which I use out of my professional work. Here
 
 ### Areas of Interest:
 * Scientific Computing
-* Robotics
 * Data Science - Machine Learning
-* Control Systems
-* Mechanics
+* Control Theory
+* Robotics
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
