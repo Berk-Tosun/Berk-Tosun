@@ -1,6 +1,6 @@
 # Berk Tosun
 
-Hello! This is my personal account which I use out of my professional work. Here you can find stuff about my graduate research and hobbies, luckily they align at times :relieved:. 
+Hello! This is my personal account which I use out of my professional work. Here you can find stuff about my hobbies.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/berk-tosun)
 
@@ -10,6 +10,7 @@ Hello! This is my personal account which I use out of my professional work. Here
 * Control Theory
 * Robotics
 
+<!---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -33,5 +34,7 @@ Hello! This is my personal account which I use out of my professional work. Here
 <a href="https://github.com/stack-of-tasks/tsid"><img alt="tsid" src="https://img.shields.io/badge/Optimal%20Control-TSID-yellow"></a>
 <a href="https://github.com/leggedrobotics/ocs2"><img alt="ocs2" src="https://img.shields.io/badge/Optimal%20Control-ocs2-yellow"></a>
 </p>
+
+-->
 
 <!-- 👉 Detailed bio. -->
